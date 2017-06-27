@@ -15,7 +15,7 @@ Examples:
 
 	Stitched panorama
 
-	![panorama](https://github.com/sumehta/Image-Warping/blob/master/images/pano.png)
+	![panorama](https://github.com/sumehta/Image-Warping/blob/master/images/finalpanaroma.jpg)
 
 
 2. An (embarassing) image of mine overlayed onto Times Square Billboards.
@@ -25,6 +25,7 @@ Examples:
 	![original image me](https://github.com/sumehta/Image-Warping/blob/master/images/cropped.jpg)
 
 	Original Times Square image
+	
 	![original times square](https://github.com/sumehta/Image-Warping/blob/master/images/timessquare.jpg)
 
 
