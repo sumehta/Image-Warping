@@ -10,7 +10,7 @@ Examples:
 
 	![middle image](https://github.com/sumehta/Image-Warping/blob/master/images/class_2s.jpg)
 
-	![right image](https://github.com/sumehta/Image-Warping/blob/master/images/class_1s.jpg)
+	![right image](https://github.com/sumehta/Image-Warping/blob/master/images/class_3s.jpg)
 
 
 	Stitched panorama
