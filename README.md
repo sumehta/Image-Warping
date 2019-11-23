@@ -16,9 +16,10 @@ Examples:
 	Stitched panorama
 
 	![panorama](https://github.com/sumehta/Image-Warping/blob/master/images/finalpanaroma.jpg)
+	(The bottom left needs some in-painting)
 
 
-2. An (embarassing) image of mine overlayed onto Times Square Billboards.
+2. An image of mine overlayed onto Times Square Billboards.
 
 	My image
 
