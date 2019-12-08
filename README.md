@@ -19,11 +19,11 @@ Examples:
 	(The bottom left needs some in-painting)
 
 
-2. An image of mine overlayed onto Times Square Billboards.
+2. An image overlayed onto Times Square Billboards.
 
-	My image
+	Image
 
-	![original image me](https://github.com/sumehta/Image-Warping/blob/master/images/cropped.jpg)
+	![original image](https://github.com/sumehta/Image-Warping/blob/master/images/cropped.jpg)
 
 	Original Times Square image
 	
